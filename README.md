@@ -1,4 +1,5 @@
-![header](https://capsule-render.vercel.app/api?type=soft&color=auto&height=150&section=header&text=JoSungWoo&fontSize=70&animation=twinkling)
+![header](https://capsule-render.vercel.app/api?type=Waving&color=auto&height=250&section=header&text=SungWoo%20Jo&fontSize=80)
+
 
 <div align="center">
 
@@ -65,6 +66,7 @@
 </p>
 
 </div>
+
 
 
 ![Footer](https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=footer)
