@@ -4,14 +4,18 @@
 <p align="center">🇰🇷 🇺🇸</p>
 
 
-<p align="center">
+<center>
 
 ![Josungwoo's GitHub stats](https://github-readme-stats.vercel.app/api?username=josungwoo&show_icons=true&theme=tokyonight&count_private=true)
 
+</center>
+
+<center>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=josungwoo&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
-</p>
+</center>
+
 
 
 <h3 align="center">🛠 Tech Stack 🛠</h3>
@@ -51,7 +55,6 @@ style=flat-square&logo=Git&logoColor=white"/>
 
 <h3 align="center"> 🧸 Me 🧸 </h3>
 <p align="center">
-  
   <a href="mailto:viliketh1s98@naver.com"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=jswdev00@gmail.com"/></a>
 </p>
 <br>
