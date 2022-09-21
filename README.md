@@ -3,18 +3,16 @@
 
 <p align="center">🇰🇷 🇺🇸</p>
 
+#
 
-<center>
+<div align="center">
 
 ![Josungwoo's GitHub stats](https://github-readme-stats.vercel.app/api?username=josungwoo&show_icons=true&theme=tokyonight&count_private=true)
 
-</center>
-
-<center>
-
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=josungwoo&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
-</center>
+</div>
+
 
 
 
