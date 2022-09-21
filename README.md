@@ -1,16 +1,17 @@
 ![header](https://capsule-render.vercel.app/api?type=soft&color=auto&height=150&section=header&text=JoSungWoo&fontSize=70&animation=twinkling)
 
 
-<p align="center">🇰🇷 en</p>
+<p align="center">🇰🇷 🇺🇸</p>
 
-<center>
+
+<p align="center">
 
 ![Josungwoo's GitHub stats](https://github-readme-stats.vercel.app/api?username=josungwoo&show_icons=true&theme=tokyonight&count_private=true)
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=josungwoo&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
-</center>
+</p>
 
 
 <h3 align="center">🛠 Tech Stack 🛠</h3>
