@@ -11,8 +11,7 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=josungwoo&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Solved.ac
-프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=cso3297)](https://solved.ac/profile/user/cso3297)
+[![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=cso3297)](https://solved.ac/profile/user/cso3297)]
   
 </div>
 
