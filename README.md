@@ -1,20 +1,23 @@
 ![header](https://capsule-render.vercel.app/api?type=soft&color=auto&height=150&section=header&text=JoSungWoo&fontSize=70&animation=twinkling)
 
+<div align="center">
 
-<p align="center">🇰🇷 🇺🇸</p>
+🇰🇷 🇺🇸
 
 #
 
-<div align="center">
+<img align="center" src='https://github-readme-stats.vercel.app/api?username=josungwoo&show_icons=true&theme=tokyonight&count_private=true' width='70%' />
 
-![Josungwoo's GitHub stats](https://github-readme-stats.vercel.app/api?username=josungwoo&show_icons=true&theme=tokyonight&count_private=true)
+<br>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=josungwoo&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+<img align="left" src='https://github-readme-stats.vercel.app/api/top-langs/?username=josungwoo&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats' width='50%' />
 
-[![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=cso3297)](https://solved.ac/profile/cso3297)
+<img align="right" src="http://mazassumnida.wtf/api/v2/generate_badge?boj=cso3297)](https://solved.ac/profile/cso3297" widtg='50%'/>
+
+<br>
+
 
 </div>
-
 
 
 
@@ -53,7 +56,7 @@ style=flat-square&logo=git&logoColor=white"/>
 <br>
 
 
-<h3 align="center"> 💫 Contact  </h3>
+<h3 align="center"> 💫 Contact 💫 </h3>
 <p align="center">
   <a href="mailto:jswdev00@gmail.com"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=jswdev00@gmail.com"/></a>
 </p>
@@ -62,4 +65,9 @@ style=flat-square&logo=git&logoColor=white"/>
 <p align="center">
     <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fjosungwoo&count_bg=%233FD9D7&title_bg=%23555555&icon=github.svg&icon_color=%23FFFFFF&title=hits&edge_flat=false"/></a>
 </p>
+
+
+![Footer](https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=footer)
+
+
 
